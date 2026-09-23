@@ -1,7 +1,7 @@
-# DrinkUp — Support & Privacy
+# Drink Tally — Support & Privacy
 
 Source for <https://vtrantescu-ops.github.io/BeerCounter-Support/>, the Support
-and Privacy Policy page that the DrinkUp iOS app and its App Store listing link
+and Privacy Policy page that the Drink Tally iOS app and its App Store listing link
 to.
 
 - `#support` — Support & FAQ
